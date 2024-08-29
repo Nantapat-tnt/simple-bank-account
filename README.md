@@ -1,2 +1,2 @@
 # simple-bank-account
-for practice
+my academic project practice
